@@ -1,0 +1,23 @@
+* Choose your pizza:
+1: Classic Pizza --------> 11₺ (Tomato sauce, Olive, Pepper, Corn)
+2: Margherita -----------> 12₺ (Tomato sauce, Mozzarella, Basil)
+3: Anatolian Pizza ------> 13₺ (Tomato sauce, Bryndza, Pastrami, Pepper)
+4: Plain Pizza ----------> 14₺ (Tomato sauce)
+5: New York Pizza--------> 15₺ (Tomato sauce, Corn, Parmesan)
+6: Vegan Pizza ----------> 16₺ (Tomato sauce, Vegan Cheese, Olive, Pepper, Corn)
+************
+************
+************
+************
+************Pizza Decorator:
+11: Olive ---------------> 11₺
+12: Mushroom ------------> 12₺
+13: Cheese --------------> 13₺
+14: Vegan Meat ----------> 14₺
+15: Onion ---------------> 15₺
+16: Corn ----------------> 16₺
+17: Mozzarella ----------> 17₺
+18: Parmesan  -----------> 18₺
+19: Bryndza -------------> 19₺
+20: Vegan cheese --------> 20₺
+* Thank You for Being GlobalAI Pizzeria's Valued Customer!
